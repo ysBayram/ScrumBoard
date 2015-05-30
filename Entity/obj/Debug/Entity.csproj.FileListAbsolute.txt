@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\ScrumBoard\Entity\bin\Debug\Entity.dll
+C:\Users\ogrenci\Desktop\ScrumBoard\Entity\bin\Debug\Entity.pdb
+C:\Users\ogrenci\Desktop\ScrumBoard\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ScrumBoard\Entity\obj\Debug\Entity.dll
+C:\Users\ogrenci\Desktop\ScrumBoard\Entity\obj\Debug\Entity.pdb
+C:\Users\Mirza\Desktop\ScrumBoard\Entity\bin\Debug\Entity.dll
+C:\Users\Mirza\Desktop\ScrumBoard\Entity\bin\Debug\Entity.pdb
+C:\Users\Mirza\Desktop\ScrumBoard\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Mirza\Desktop\ScrumBoard\Entity\obj\Debug\Entity.dll
+C:\Users\Mirza\Desktop\ScrumBoard\Entity\obj\Debug\Entity.pdb

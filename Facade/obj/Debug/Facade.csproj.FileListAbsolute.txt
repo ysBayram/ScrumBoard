@@ -1,0 +1,14 @@
+C:\Users\ogrenci\Desktop\ScrumBoard\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ScrumBoard\Facade\bin\Debug\Facade.dll.config
+C:\Users\ogrenci\Desktop\ScrumBoard\Facade\bin\Debug\Facade.dll
+C:\Users\ogrenci\Desktop\ScrumBoard\Facade\bin\Debug\Facade.pdb
+C:\Users\ogrenci\Desktop\ScrumBoard\Facade\bin\Debug\Entity.dll
+C:\Users\ogrenci\Desktop\ScrumBoard\Facade\bin\Debug\EntityFramework.dll
+C:\Users\ogrenci\Desktop\ScrumBoard\Facade\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ogrenci\Desktop\ScrumBoard\Facade\bin\Debug\Provider.dll
+C:\Users\ogrenci\Desktop\ScrumBoard\Facade\bin\Debug\Entity.pdb
+C:\Users\ogrenci\Desktop\ScrumBoard\Facade\bin\Debug\Provider.pdb
+C:\Users\ogrenci\Desktop\ScrumBoard\Facade\bin\Debug\EntityFramework.xml
+C:\Users\ogrenci\Desktop\ScrumBoard\Facade\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ogrenci\Desktop\ScrumBoard\Facade\obj\Debug\Facade.dll
+C:\Users\ogrenci\Desktop\ScrumBoard\Facade\obj\Debug\Facade.pdb

@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrumBoard", "ScrumBoard\ScrumBoard.csproj", "{51FF2BC9-CE18-4FA1-8AC0-F32773354E01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "Entity\Entity.csproj", "{585F96F3-910C-4172-BFF4-84FEAF615158}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Process", "Facade\Process.csproj", "{B9616899-192E-4351-94E4-31F9558D6ADA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Provider", "Provider\Provider.csproj", "{DFC49B82-B7D4-4550-B855-D5CDBB096468}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://e2yavuzselim.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Entity\\Entity.csproj
+		SccProjectName1 = Entity
+		SccLocalPath1 = Entity
+		SccProjectUniqueName2 = Facade\\Process.csproj
+		SccProjectName2 = Facade
+		SccLocalPath2 = Facade
+		SccProjectUniqueName3 = Provider\\Provider.csproj
+		SccProjectName3 = Provider
+		SccLocalPath3 = Provider
+		SccProjectUniqueName4 = ScrumBoard\\ScrumBoard.csproj
+		SccProjectName4 = ScrumBoard
+		SccLocalPath4 = ScrumBoard
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51FF2BC9-CE18-4FA1-8AC0-F32773354E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51FF2BC9-CE18-4FA1-8AC0-F32773354E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51FF2BC9-CE18-4FA1-8AC0-F32773354E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51FF2BC9-CE18-4FA1-8AC0-F32773354E01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{585F96F3-910C-4172-BFF4-84FEAF615158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{585F96F3-910C-4172-BFF4-84FEAF615158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{585F96F3-910C-4172-BFF4-84FEAF615158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{585F96F3-910C-4172-BFF4-84FEAF615158}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9616899-192E-4351-94E4-31F9558D6ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9616899-192E-4351-94E4-31F9558D6ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9616899-192E-4351-94E4-31F9558D6ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9616899-192E-4351-94E4-31F9558D6ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFC49B82-B7D4-4550-B855-D5CDBB096468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC49B82-B7D4-4550-B855-D5CDBB096468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC49B82-B7D4-4550-B855-D5CDBB096468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC49B82-B7D4-4550-B855-D5CDBB096468}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
