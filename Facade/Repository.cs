@@ -11,7 +11,6 @@ using Provider;
 namespace Process
 {
     /// <summary>
-    /// HOCANIN Repository Pattern İçin Verdiği Örnek ÇOOOOOOOOOOOK Önemli Bunu BOL BOL Kullan
     /// </summary>
     /// <typeparam name="T"></typeparam>
     public class Repository<T> where T : class
