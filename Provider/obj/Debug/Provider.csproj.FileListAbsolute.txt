@@ -22,3 +22,15 @@ C:\Users\Mirza\Desktop\ScrumBoard\Provider\bin\Debug\EntityFramework.SqlServer.x
 C:\Users\Mirza\Desktop\ScrumBoard\Provider\obj\Debug\Provider.csprojResolveAssemblyReference.cache
 C:\Users\Mirza\Desktop\ScrumBoard\Provider\obj\Debug\Provider.dll
 C:\Users\Mirza\Desktop\ScrumBoard\Provider\obj\Debug\Provider.pdb
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Provider\bin\Debug\Provider.dll.config
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Provider\bin\Debug\Provider.dll
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Provider\bin\Debug\Provider.pdb
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Provider\bin\Debug\Entity.dll
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Provider\bin\Debug\EntityFramework.dll
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Provider\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Provider\bin\Debug\Entity.pdb
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Provider\bin\Debug\EntityFramework.xml
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Provider\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Provider\obj\Debug\Provider.csprojResolveAssemblyReference.cache
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Provider\obj\Debug\Provider.dll
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Provider\obj\Debug\Provider.pdb

@@ -26,3 +26,17 @@ C:\Users\ogrenci\Desktop\ScrumBoard\Facade\bin\Debug\EntityFramework.SqlServer.x
 C:\Users\ogrenci\Desktop\ScrumBoard\Facade\obj\Debug\Process.csprojResolveAssemblyReference.cache
 C:\Users\ogrenci\Desktop\ScrumBoard\Facade\obj\Debug\Process.dll
 C:\Users\ogrenci\Desktop\ScrumBoard\Facade\obj\Debug\Process.pdb
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Facade\bin\Debug\Process.dll.config
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Facade\bin\Debug\Process.dll
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Facade\bin\Debug\Process.pdb
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Facade\bin\Debug\Entity.dll
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Facade\bin\Debug\EntityFramework.dll
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Facade\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Facade\bin\Debug\Provider.dll
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Facade\bin\Debug\Entity.pdb
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Facade\bin\Debug\Provider.pdb
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Facade\bin\Debug\EntityFramework.xml
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Facade\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Facade\obj\Debug\Process.csprojResolveAssemblyReference.cache
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Facade\obj\Debug\Process.dll
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Facade\obj\Debug\Process.pdb
