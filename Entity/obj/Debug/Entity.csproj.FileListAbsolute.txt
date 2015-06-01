@@ -8,3 +8,8 @@ C:\Users\Mirza\Desktop\ScrumBoard\Entity\bin\Debug\Entity.pdb
 C:\Users\Mirza\Desktop\ScrumBoard\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
 C:\Users\Mirza\Desktop\ScrumBoard\Entity\obj\Debug\Entity.dll
 C:\Users\Mirza\Desktop\ScrumBoard\Entity\obj\Debug\Entity.pdb
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Entity\bin\Debug\Entity.dll
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Entity\bin\Debug\Entity.pdb
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Entity\obj\Debug\Entity.dll
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Entity\obj\Debug\Entity.pdb

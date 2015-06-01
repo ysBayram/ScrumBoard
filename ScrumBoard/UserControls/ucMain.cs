@@ -35,6 +35,7 @@ namespace ScrumBoard.UserControls
 
             lblName.Text = _Task.Name;
             lblDescrp.Text = _Task.Descrp;
+            lblUserName.Text = _Task.User.Name;
             lblTime.Text = _Task.CreateTime.ToString();
             toolTipUser.SetToolTip(pbUser, _Task.User.Name);
             toolTipUser.ToolTipTitle = _Task.User.Role.ToString();

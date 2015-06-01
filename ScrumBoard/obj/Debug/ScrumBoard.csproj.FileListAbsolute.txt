@@ -56,3 +56,32 @@ C:\Users\Mirza\Desktop\ScrumBoard\ScrumBoard\obj\Debug\ScrumBoard.UserControls.u
 C:\Users\Mirza\Desktop\ScrumBoard\ScrumBoard\obj\Debug\ScrumBoard.UserControls.ucTask.resources
 C:\Users\Mirza\Desktop\ScrumBoard\ScrumBoard\obj\Debug\ScrumBoard.UserControls.ucUser.resources
 C:\Users\Mirza\Desktop\ScrumBoard\ScrumBoard\obj\Debug\ScrumBoard.UserControls.ucMain.resources
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\ScrumBoard\bin\Debug\ScrumBoard.exe.config
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\ScrumBoard\obj\Debug\ScrumBoard.exe
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\ScrumBoard\obj\Debug\ScrumBoard.pdb
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\ScrumBoard\bin\Debug\ScrumBoard.exe
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\ScrumBoard\bin\Debug\ScrumBoard.pdb
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\ScrumBoard\bin\Debug\Entity.dll
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\ScrumBoard\bin\Debug\EntityFramework.dll
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\ScrumBoard\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\ScrumBoard\bin\Debug\MetroFramework.Design.dll
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\ScrumBoard\bin\Debug\MetroFramework.dll
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\ScrumBoard\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\ScrumBoard\bin\Debug\Process.dll
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\ScrumBoard\bin\Debug\Provider.dll
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\ScrumBoard\bin\Debug\Entity.pdb
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\ScrumBoard\bin\Debug\Process.pdb
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\ScrumBoard\bin\Debug\EntityFramework.xml
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\ScrumBoard\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\ScrumBoard\bin\Debug\Provider.pdb
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\ScrumBoard\obj\Debug\ScrumBoard.csprojResolveAssemblyReference.cache
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\ScrumBoard\obj\Debug\ScrumBoard.frmDataCRUD.resources
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\ScrumBoard\obj\Debug\ScrumBoard.frmMain.resources
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\ScrumBoard\obj\Debug\ScrumBoard.Properties.Resources.resources
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\ScrumBoard\obj\Debug\ScrumBoard.UserControls.ucCategory.resources
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\ScrumBoard\obj\Debug\ScrumBoard.UserControls.ucMain.resources
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\ScrumBoard\obj\Debug\ScrumBoard.UserControls.ucMeeting.resources
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\ScrumBoard\obj\Debug\ScrumBoard.UserControls.ucSprint.resources
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\ScrumBoard\obj\Debug\ScrumBoard.UserControls.ucTask.resources
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\ScrumBoard\obj\Debug\ScrumBoard.UserControls.ucUser.resources
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\ScrumBoard\obj\Debug\ScrumBoard.csproj.GenerateResource.Cache
