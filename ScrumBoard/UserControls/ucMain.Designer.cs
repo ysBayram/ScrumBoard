@@ -52,10 +52,11 @@
             this.pnlTask.ForeColor = System.Drawing.SystemColors.ControlLight;
             this.pnlTask.HorizontalScrollbarBarColor = true;
             this.pnlTask.HorizontalScrollbarHighlightOnWheel = false;
-            this.pnlTask.HorizontalScrollbarSize = 10;
-            this.pnlTask.Location = new System.Drawing.Point(0, 23);
+            this.pnlTask.HorizontalScrollbarSize = 9;
+            this.pnlTask.Location = new System.Drawing.Point(0, 22);
+            this.pnlTask.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.pnlTask.Name = "pnlTask";
-            this.pnlTask.Size = new System.Drawing.Size(175, 132);
+            this.pnlTask.Size = new System.Drawing.Size(175, 133);
             this.pnlTask.TabIndex = 3;
             this.pnlTask.VerticalScrollbarBarColor = true;
             this.pnlTask.VerticalScrollbarHighlightOnWheel = false;
@@ -65,7 +66,8 @@
             // 
             this.pbUser.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.pbUser.Image = global::ScrumBoard.Properties.Resources.user_suit;
-            this.pbUser.Location = new System.Drawing.Point(139, 96);
+            this.pbUser.Location = new System.Drawing.Point(139, 97);
+            this.pbUser.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.pbUser.Name = "pbUser";
             this.pbUser.Size = new System.Drawing.Size(32, 32);
             this.pbUser.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -95,9 +97,11 @@
             this.pnlPriority.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
             this.pnlPriority.Controls.Add(this.lblName);
             this.pnlPriority.Dock = System.Windows.Forms.DockStyle.Top;
+            this.pnlPriority.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.pnlPriority.Location = new System.Drawing.Point(0, 0);
+            this.pnlPriority.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.pnlPriority.Name = "pnlPriority";
-            this.pnlPriority.Size = new System.Drawing.Size(175, 23);
+            this.pnlPriority.Size = new System.Drawing.Size(175, 22);
             this.pnlPriority.TabIndex = 2;
             // 
             // lblName
@@ -105,7 +109,7 @@
             this.lblName.AutoSize = true;
             this.lblName.Location = new System.Drawing.Point(5, 5);
             this.lblName.Name = "lblName";
-            this.lblName.Size = new System.Drawing.Size(35, 13);
+            this.lblName.Size = new System.Drawing.Size(39, 13);
             this.lblName.TabIndex = 0;
             this.lblName.Text = "Name";
             // 
@@ -120,7 +124,7 @@
             this.lblUserName.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.lblUserName.FontSize = MetroFramework.MetroLabelSize.Small;
             this.lblUserName.FontWeight = MetroFramework.MetroLabelWeight.Bold;
-            this.lblUserName.Location = new System.Drawing.Point(7, 96);
+            this.lblUserName.Location = new System.Drawing.Point(7, 97);
             this.lblUserName.Name = "lblUserName";
             this.lblUserName.Size = new System.Drawing.Size(126, 15);
             this.lblUserName.TabIndex = 5;
@@ -132,7 +136,8 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.pnlTask);
             this.Controls.Add(this.pnlPriority);
-            this.Margin = new System.Windows.Forms.Padding(10);
+            this.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.Margin = new System.Windows.Forms.Padding(10, 9, 10, 9);
             this.Name = "ucMain";
             this.Size = new System.Drawing.Size(175, 155);
             this.pnlTask.ResumeLayout(false);
