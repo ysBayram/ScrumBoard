@@ -121,4 +121,7 @@
   <data name="user_suit" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\user_suit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="postit_175" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\postit_175.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

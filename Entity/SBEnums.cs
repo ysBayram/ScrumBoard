@@ -8,8 +8,8 @@ namespace Entity
 {
     public enum Role
     {
-        ScrumMaster,
-        Developer,
-        ProductOwner
+        ScrumMaster = 0,
+        Developer = 1,
+        ProductOwner = 2
     }
 }

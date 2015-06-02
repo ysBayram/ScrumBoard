@@ -34,3 +34,5 @@ C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Provider\bin\Debug\EntityFramewo
 C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Provider\obj\Debug\Provider.csprojResolveAssemblyReference.cache
 C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Provider\obj\Debug\Provider.dll
 C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Provider\obj\Debug\Provider.pdb
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Provider\bin\Debug\FakeData.dll
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\Provider\bin\Debug\FakeData.pdb

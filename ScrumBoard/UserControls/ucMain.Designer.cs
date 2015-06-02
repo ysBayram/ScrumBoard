@@ -28,14 +28,14 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.pnlTask = new MetroFramework.Controls.MetroPanel();
+            this.pnlTask = new System.Windows.Forms.Panel();
+            this.lblUserName = new System.Windows.Forms.Label();
             this.pbUser = new System.Windows.Forms.PictureBox();
-            this.lblDescrp = new MetroFramework.Controls.MetroLabel();
-            this.lblTime = new MetroFramework.Controls.MetroLabel();
+            this.lblDescrp = new System.Windows.Forms.Label();
+            this.lblTime = new System.Windows.Forms.Label();
             this.pnlPriority = new System.Windows.Forms.Panel();
             this.lblName = new System.Windows.Forms.Label();
             this.toolTipUser = new MetroFramework.Components.MetroToolTip();
-            this.lblUserName = new MetroFramework.Controls.MetroLabel();
             this.pnlTask.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pbUser)).BeginInit();
             this.pnlPriority.SuspendLayout();
@@ -43,75 +43,93 @@
             // 
             // pnlTask
             // 
-            this.pnlTask.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pnlTask.BackColor = System.Drawing.Color.Transparent;
             this.pnlTask.Controls.Add(this.lblUserName);
             this.pnlTask.Controls.Add(this.pbUser);
             this.pnlTask.Controls.Add(this.lblDescrp);
             this.pnlTask.Controls.Add(this.lblTime);
             this.pnlTask.Dock = System.Windows.Forms.DockStyle.Fill;
             this.pnlTask.ForeColor = System.Drawing.SystemColors.ControlLight;
-            this.pnlTask.HorizontalScrollbarBarColor = true;
-            this.pnlTask.HorizontalScrollbarHighlightOnWheel = false;
-            this.pnlTask.HorizontalScrollbarSize = 9;
-            this.pnlTask.Location = new System.Drawing.Point(0, 22);
+            this.pnlTask.Location = new System.Drawing.Point(0, 50);
             this.pnlTask.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.pnlTask.Name = "pnlTask";
-            this.pnlTask.Size = new System.Drawing.Size(175, 133);
+            this.pnlTask.Size = new System.Drawing.Size(175, 105);
             this.pnlTask.TabIndex = 3;
-            this.pnlTask.VerticalScrollbarBarColor = true;
-            this.pnlTask.VerticalScrollbarHighlightOnWheel = false;
-            this.pnlTask.VerticalScrollbarSize = 10;
+            // 
+            // lblUserName
+            // 
+            this.lblUserName.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.lblUserName.BackColor = System.Drawing.Color.Transparent;
+            this.lblUserName.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.lblUserName.ForeColor = System.Drawing.Color.White;
+            this.lblUserName.Location = new System.Drawing.Point(12, 64);
+            this.lblUserName.Name = "lblUserName";
+            this.lblUserName.Size = new System.Drawing.Size(126, 14);
+            this.lblUserName.TabIndex = 5;
+            this.lblUserName.Text = "[UserName]";
             // 
             // pbUser
             // 
             this.pbUser.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.pbUser.BackColor = System.Drawing.Color.Transparent;
             this.pbUser.Image = global::ScrumBoard.Properties.Resources.user_suit;
-            this.pbUser.Location = new System.Drawing.Point(139, 97);
+            this.pbUser.Location = new System.Drawing.Point(147, 66);
             this.pbUser.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.pbUser.Name = "pbUser";
-            this.pbUser.Size = new System.Drawing.Size(32, 32);
+            this.pbUser.Size = new System.Drawing.Size(25, 22);
             this.pbUser.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pbUser.TabIndex = 4;
             this.pbUser.TabStop = false;
             // 
             // lblDescrp
             // 
-            this.lblDescrp.Location = new System.Drawing.Point(3, 2);
+            this.lblDescrp.AccessibleName = "75";
+            this.lblDescrp.BackColor = System.Drawing.Color.Transparent;
+            this.lblDescrp.ForeColor = System.Drawing.Color.White;
+            this.lblDescrp.Location = new System.Drawing.Point(4, 3);
             this.lblDescrp.Name = "lblDescrp";
-            this.lblDescrp.Size = new System.Drawing.Size(167, 91);
+            this.lblDescrp.Padding = new System.Windows.Forms.Padding(5, 2, 5, 2);
+            this.lblDescrp.Size = new System.Drawing.Size(167, 59);
             this.lblDescrp.TabIndex = 2;
-            this.lblDescrp.Text = "Description";
+            this.lblDescrp.Text = "Description Description Description Description Description Description Descripti" +
+    "on Descrip....";
             // 
             // lblTime
             // 
             this.lblTime.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.lblTime.FontSize = MetroFramework.MetroLabelSize.Small;
-            this.lblTime.Location = new System.Drawing.Point(7, 114);
+            this.lblTime.BackColor = System.Drawing.Color.Transparent;
+            this.lblTime.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.lblTime.ForeColor = System.Drawing.Color.White;
+            this.lblTime.Location = new System.Drawing.Point(13, 78);
             this.lblTime.Name = "lblTime";
-            this.lblTime.Size = new System.Drawing.Size(126, 14);
+            this.lblTime.Size = new System.Drawing.Size(126, 12);
             this.lblTime.TabIndex = 3;
             this.lblTime.Text = "01.01.2001 01:01";
             // 
             // pnlPriority
             // 
-            this.pnlPriority.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.pnlPriority.BackColor = System.Drawing.Color.Transparent;
             this.pnlPriority.Controls.Add(this.lblName);
             this.pnlPriority.Dock = System.Windows.Forms.DockStyle.Top;
             this.pnlPriority.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.pnlPriority.Location = new System.Drawing.Point(0, 0);
             this.pnlPriority.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.pnlPriority.Name = "pnlPriority";
-            this.pnlPriority.Size = new System.Drawing.Size(175, 22);
+            this.pnlPriority.Size = new System.Drawing.Size(175, 50);
             this.pnlPriority.TabIndex = 2;
             // 
             // lblName
             // 
-            this.lblName.AutoSize = true;
-            this.lblName.Location = new System.Drawing.Point(5, 5);
+            this.lblName.AccessibleName = "35";
+            this.lblName.BackColor = System.Drawing.Color.Transparent;
+            this.lblName.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lblName.Location = new System.Drawing.Point(0, 0);
             this.lblName.Name = "lblName";
-            this.lblName.Size = new System.Drawing.Size(39, 13);
+            this.lblName.Padding = new System.Windows.Forms.Padding(3);
+            this.lblName.Size = new System.Drawing.Size(175, 50);
             this.lblName.TabIndex = 0;
-            this.lblName.Text = "Name";
+            this.lblName.Text = "Lorem ipsum dolor sit a met. Lorem ipsum dolor sit a met.";
+            this.lblName.TextAlign = System.Drawing.ContentAlignment.BottomLeft;
             // 
             // toolTipUser
             // 
@@ -119,21 +137,12 @@
             this.toolTipUser.StyleManager = null;
             this.toolTipUser.Theme = MetroFramework.MetroThemeStyle.Dark;
             // 
-            // lblUserName
-            // 
-            this.lblUserName.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.lblUserName.FontSize = MetroFramework.MetroLabelSize.Small;
-            this.lblUserName.FontWeight = MetroFramework.MetroLabelWeight.Bold;
-            this.lblUserName.Location = new System.Drawing.Point(7, 97);
-            this.lblUserName.Name = "lblUserName";
-            this.lblUserName.Size = new System.Drawing.Size(126, 15);
-            this.lblUserName.TabIndex = 5;
-            this.lblUserName.Text = "[UserName]";
-            // 
             // ucMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.Transparent;
+            this.BackgroundImage = global::ScrumBoard.Properties.Resources.postit_175;
             this.Controls.Add(this.pnlTask);
             this.Controls.Add(this.pnlPriority);
             this.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
@@ -143,20 +152,19 @@
             this.pnlTask.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pbUser)).EndInit();
             this.pnlPriority.ResumeLayout(false);
-            this.pnlPriority.PerformLayout();
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private MetroFramework.Controls.MetroPanel pnlTask;
+        private System.Windows.Forms.Panel pnlTask;
         private System.Windows.Forms.Panel pnlPriority;
         private System.Windows.Forms.PictureBox pbUser;
-        private MetroFramework.Controls.MetroLabel lblDescrp;
-        private MetroFramework.Controls.MetroLabel lblTime;
+        private System.Windows.Forms.Label lblDescrp;
+        private System.Windows.Forms.Label lblTime;
         private System.Windows.Forms.Label lblName;
         private MetroFramework.Components.MetroToolTip toolTipUser;
-        private MetroFramework.Controls.MetroLabel lblUserName;
+        private System.Windows.Forms.Label lblUserName;
     }
 }

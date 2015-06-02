@@ -85,3 +85,5 @@ C:\Users\bilge adam\Documents\GitHub\ScrumBoard\ScrumBoard\obj\Debug\ScrumBoard.
 C:\Users\bilge adam\Documents\GitHub\ScrumBoard\ScrumBoard\obj\Debug\ScrumBoard.UserControls.ucTask.resources
 C:\Users\bilge adam\Documents\GitHub\ScrumBoard\ScrumBoard\obj\Debug\ScrumBoard.UserControls.ucUser.resources
 C:\Users\bilge adam\Documents\GitHub\ScrumBoard\ScrumBoard\obj\Debug\ScrumBoard.csproj.GenerateResource.Cache
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\ScrumBoard\bin\Debug\FakeData.dll
+C:\Users\bilge adam\Documents\GitHub\ScrumBoard\ScrumBoard\bin\Debug\FakeData.pdb

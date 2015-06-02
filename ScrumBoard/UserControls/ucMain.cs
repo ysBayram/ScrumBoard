@@ -24,17 +24,36 @@ namespace ScrumBoard.UserControls
 
         void ucMain_Load(object sender, EventArgs e)
         {
-            if ((_Task.Sprint.Deadline- DateTime.Now).TotalDays < 3)
+            if (_Task.Sprint.Deadline < DateTime.Now)
             {
-                pnlPriority.BackColor = Color.OrangeRed;
+                pnlPriority.ForeColor = Color.OrangeRed;
             }
             else
             {
-                pnlPriority.BackColor = Color.GreenYellow;
+                pnlPriority.ForeColor = Color.DarkGreen;
             }
 
-            lblName.Text = _Task.Name;
-            lblDescrp.Text = _Task.Descrp;
+            int maxLengthName = int.Parse(lblName.AccessibleName);
+            int maxLengthDesc = int.Parse(lblDescrp.AccessibleName);
+
+            if (_Task.Name.Length > maxLengthName)
+            {
+                lblName.Text = _Task.Name.Substring(0, maxLengthName - 3) + "...";
+            }
+            else
+            {
+                lblName.Text = _Task.Name;
+            }
+
+            if (_Task.Descrp.Length > maxLengthDesc)
+            {
+                lblDescrp.Text = _Task.Descrp.Substring(0, maxLengthDesc - 3) + "...";
+            }
+            else
+            {
+                lblDescrp.Text = _Task.Descrp;
+            }
+
             lblUserName.Text = _Task.User.Name;
             lblTime.Text = _Task.CreateTime.ToString();
             toolTipUser.SetToolTip(pbUser, _Task.User.Name);
